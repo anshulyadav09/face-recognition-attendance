@@ -96,6 +96,9 @@ face_recognition requires dlib, which can be tricky to install on some systems.
   > Streamlit
   > OpenCV
 
+ 👩🏻‍💻Developer Anshul Yadav
+ Github: @anshulyadav09
+ Email: anshulyadav230903@gmail.com
 
 
 
